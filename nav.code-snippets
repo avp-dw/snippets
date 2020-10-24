@@ -1,0 +1,17 @@
+{
+	"Print to console": {
+		"scope": "html",
+		"prefix": "nav",
+		"body": [
+			"<button class=\"icon-menu\" aria-label=\"меню\"> ",
+			"    <span></span>",
+			"</button>",
+			"<nav class=\"menu\">",
+			"    <ul class=\"menu__list\">",
+			"        <li class=\"menu__item\"><a href=\"#\" class=\"menu__link\"></a></li>",
+			"    </ul>",
+			"</nav>",
+		],
+		"description": "Log output to console"
+	}
+}
